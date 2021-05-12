@@ -84,7 +84,7 @@ Rank,Result,Athlete,Age Group,Coach,Club,Location,Date,Date Time,Result float
 81,12.48,Kinga Kudzia,U17,N/A,City of Plymouth,Braunton,13 Sep 20,2020-09-13,12.48
 84,12.49,Niah Akintokun,U15,Ty Holden,Shaftesbury Barnet,Lee Valley,1 Aug 20,2020-08-01,12.49
 84,12.49,Hannah Lesbirel,Senior,Dale Garland,Guernsey,St. Peter Port,23 Aug 20,2020-08-23,12.49
-86,12.50,Kaya Slater,U15,N/A,Reading AC,Chelmsford,29 Aug 20,2020-08-29,12.5
+86,12.50,Kaya Slater,U15,Roddy Slater,Reading AC,Chelmsford,29 Aug 20,2020-08-29,12.5
 86,12.50,Evie Patrick,U15,Nathan Rogers,City of Norwich,Dagenham,12 Sep 20,2020-09-12,12.5
 88,12.5,Teleri Jones,U17,Barry Edwards,Menai,Bangor (W),6 Sep 20,2020-09-06,12.5
 88,12.5,Bethan Pilley,Senior,Martin Bullock,Manx,Douglas,12 Sep 20,2020-09-12,12.5
@@ -263,7 +263,7 @@ Rank,Result,Athlete,Age Group,Coach,Club,Location,Date,Date Time,Result float
 262,13.02,Lucy Poole,U15,Gary Tunstall,Preston,Stretford,1 Aug 20,2020-08-01,13.02
 262,13.02,Anna Babis,U15,N/A,Windsor Slough Eton & Hounslow,Worthing,11 Aug 20,2020-08-11,13.02
 262,13.02,Isla Golder,U23,Martin Cook,Sheffield Uni,Stretford,29 Aug 20,2020-08-29,13.02
-262,13.02,Eden Robinson,U15,N/A,Invicta East Kent,Braunton,13 Sep 20,2020-09-13,13.02
+262,13.02,Eden Robinson,U15,N/A,North Devon,Braunton,13 Sep 20,2020-09-13,13.02
 266,13.03,Shania Martlew,U20,Sue Keen,Eastbourne,Worthing,11 Aug 20,2020-08-11,13.03
 266,13.03,Sofia Vidak,U17,N/A,Falkirk,Meadowmill,29 Aug 20,2020-08-29,13.03
 266,13.03,Alecia Davidson,U15,N/A,Herne Hill,Tooting Bec,5 Sep 20,2020-09-05,13.03
@@ -286,7 +286,7 @@ Rank,Result,Athlete,Age Group,Coach,Club,Location,Date,Date Time,Result float
 285,13.07,Estelle Roots,U17,Stephen Cottle,Torbay,Braunton,13 Sep 20,2020-09-13,13.07
 286,13.08,Annalisa Joash,U17,Richard Holt,Kingston & Poly,Worthing,18 Aug 20,2020-08-18,13.08
 286,13.08,Shaleena Graham,Senior,Tamunonengiye-Ofori Ossai,Enfield & Haringey,Dagenham,23 Aug 20,2020-08-23,13.08
-286,13.08,Ashley Watson,U17,N/A,Hartlepool Youth,Morpeth,23 Aug 20,2020-08-23,13.08
+286,13.08,Ashley Watson,U17,N/A,Hartlepool AC,Morpeth,23 Aug 20,2020-08-23,13.08
 286,13.08,Indiana Marshall,U15,John Shepherd,Woking,Chelmsford,29 Aug 20,2020-08-29,13.08
 286,13.08,Chloë Sumner,U20,N/A,Kent Schs,Dartford,12 Sep 20,2020-09-12,13.08
 291,13.09,Leah Butterfill,U17,N/A,Wreake & Soar Valley,Nuneaton,19 Aug 20,2020-08-19,13.09
